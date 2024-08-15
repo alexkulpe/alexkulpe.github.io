@@ -2,7 +2,7 @@
 title: "A bound on the quantum value of compiled nonlocal games"
 collection: publications
 category: preprint
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/a-bound-on-the-quantum-value-of-compiled-nonlocal-games
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-02-17
 venue: 'GitHub Journal of Bugs'
