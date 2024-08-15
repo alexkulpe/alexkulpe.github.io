@@ -7,7 +7,6 @@ excerpt: 'A compiler introduced by Kalai et al. converts any nonlocal game into 
 date: 2024-08-13
 venue: 'arxiv'
 paperurl: 'https://arxiv.org/pdf/2408.06711'
-citation: ''
 ---
 
 <!---
