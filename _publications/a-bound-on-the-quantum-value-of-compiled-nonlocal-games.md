@@ -1,5 +1,5 @@
 ---
-title: "A bound on the quantum value of compiled nonlocal games "
+title: "A bound on the quantum value of compiled nonlocal games"
 collection: publications
 category: preprint
 permalink: /publication/a-bound-on-the-quantum-value-of-nonlocal-games
