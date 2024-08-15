@@ -1,15 +1,13 @@
 ---
-title: "A bound on the quantum value of compiled nonlocal games"
+title: "Paper Title Number 4"
 collection: publications
 category: conferences
-url_slug: /publication/a-bound-on-the-quantum-value-of-nonlocal-games
-excerpt: 'A compiler introduced by Kalai et al. (STOC'23) converts any nonlocal game into an interactive protocol with a single computationally-bounded prover'
-pub_date: 2024-08-13
-venue: 'arxiv'
-paper_url: 'https://arxiv.org/pdf/2408.06711'
-citation: 'test'
+permalink: /publication/2024-02-17-paper-title-number-4
+excerpt: 'This paper is about fixing template issue #693.'
+date: 2024-02-17
+venue: 'GitHub Journal of Bugs'
+paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
-<!---
-The contents fabove will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
--->
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
