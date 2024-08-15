@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 4"
+title: "A bound on the quantum value of compiled nonlocal games"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
