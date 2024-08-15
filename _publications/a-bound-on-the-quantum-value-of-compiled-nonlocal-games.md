@@ -6,7 +6,7 @@ permalink: /publication/a-bound-on-the-quantum-value-of-nonlocal-games
 excerpt: 'A compiler introduced by Kalai et al. (STOC'23) converts any nonlocal game into an interactive protocol with a single computationally-bounded prover'
 date: 2024-08-13
 venue: 'arxiv'
-paperurl: 'https://arxiv.org/pdf/2408.06711'
+paper_url: 'https://arxiv.org/pdf/2408.06711'
 citation: 'test'
 ---
 
