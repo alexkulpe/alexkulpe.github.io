@@ -60,8 +60,9 @@ Work experience
 
 * **Research Assistant** (2024 - 2027 (expected))\
   Ruhr University Bochum
-* **Student Assistant** (2019 - 2024)\
-  Ruhr University Bochum
+* **Teaching Assistant** (2019 - 2024)\
+  Ruhr University Bochum\
+  Algorithm Paradigms, Cryptography, Discrete Mathematics I / II, Higher Mathematics I for Applied CS, Introduction to Theoretical Computer Science, Mathematics I for CS and IT-Security, Public Key Cryptanalysis
 * **Intern** (Summer 2021)\
   secunet Security Networks AG, Division Homeland Security, Team Cryptographic Systems and Applications
 
