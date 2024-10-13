@@ -7,9 +7,11 @@ venue: "Ruhr University Bochum"
 location: "Bochum, Germany"
 ---
 
-offered by Prof. Dr. May
-
-Corrector (2023)
+* Type: Lecture with Exercises
+* Lecturer: Prof. Dr. May
+* Credits: 5 CP
+* Langauge: English / German
+* Examination: 100 % Written Exam + 10 % Homework
 
 Course Description
 ======
