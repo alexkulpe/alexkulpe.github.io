@@ -2,7 +2,7 @@
 title: "Seminar Quantum Information and Computation: Quantum Complexity Theory"
 collection: courses
 type: "CASA PhD Lecture"
-permalink: /courses/quantum-information
+permalink: /courses/quantum-complexity-theory
 venue: "Ruhr University Bochum"
 date: 2024-10-01
 location: "Bochum, Germany"
@@ -28,7 +28,7 @@ Summer 2023: [Quantum Algorithms](quantum-algorithms)
 Required Prior Knowledge
 ======
 
-Students should have successfully completed our two lecture courses [Quantum Information and Computation](quantum-information-and-computation) and [Advanced Quantum Information and Computation](advanced-quantum-information-and-computation).
+Students should have successfully completed our two lecture courses [Quantum Information and Computation](quantum-information) and [Advanced Quantum Information and Computation](advanced-quantum-information-and-computation).
 
 Literature
 ======
