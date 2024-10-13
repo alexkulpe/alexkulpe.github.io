@@ -7,6 +7,8 @@ venue: "Ruhr University Bochum"
 location: "Bochum, Germany"
 ---
 
-offered by PD Dr. Kacso
-
-Corrector (2019/20)
+* Type: Lecture with Exercises
+* Lecturer: PD Dr. Kacso
+* Credits: 10 CP
+* Language: German
+* Examination: 100 % Written Exam + 10 % Homework + 20 % Mid-term
