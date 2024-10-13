@@ -7,6 +7,8 @@ venue: "Ruhr University Bochum"
 location: "Bochum, Germany"
 ---
 
-offered by Prof. Dr. Leander
-
-Exercise Supervisor (2020/21)
+* Type: Lecture with Exercises
+* Lecturer: Prof Dr. Leander
+* Credits: 9 CP
+* Language: German
+* Examination: 100 % Written Exam + 10 % Homework
