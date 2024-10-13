@@ -22,7 +22,7 @@ This term, the topic will be Quantum Complexity Theory.
 
 Themes of past semesters:
 
-Winter 2023/24: Quantum Cryptography
+Winter 2023/24: Quantum Cryptography\
 Summer 2023: [Quantum Algorithms](quantum-algorithms)
 
 Required Prior Knowledge
