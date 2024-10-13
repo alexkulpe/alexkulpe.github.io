@@ -7,9 +7,11 @@ venue: "Ruhr University Bochum"
 location: "Bochum, Germany"
 ---
 
-offered by Jun.-Prof. Dr. Fleischhacker (2022), Timo Glaser (2023)
-
-Corrector (2022, 2023)
+* Type: Lecture with Exercises
+* Lecturer: Prof. Dr. Fleischhacker (2022), Timo Glaser (2023)
+* Credits: 6 CP
+* Language: German
+* Examination: 100 % Written Exam + 10 % Homework
 
 Course Description
 ======
