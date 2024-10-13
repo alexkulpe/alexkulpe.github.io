@@ -7,9 +7,12 @@ venue: "Ruhr University Bochum"
 location: "Bochum, Germany"
 ---
 
-offered by Prof. Dr. May (2022/23), Prof. Dr. Fleischhacker (2023/24)
+* Type: Lecture with Exercises
+* Lecturer: Prof. Dr. May (2022/23), Prof. Dr. Fleischhacker (2023/24)
+* Credits 8/9 CP
+* Language: German
+* Examination: 100 % Written Exam + 10 % Homework
 
-Corrector (2022/23), Corrector & Exercise Supervisor (2023/24)
 
 Course Description
 ======
