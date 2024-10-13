@@ -7,9 +7,11 @@ venue: "Ruhr University Bochum"
 location: "Bochum, Germany"
 ---
 
-offered by PD Dr. Schuster
-
-Corrector (2020/21)
+* Type: Lecture with Exercises
+* Lecturer: PD Dr. Schuster
+* Credits: 9 CP
+* Language: German
+* Examination: 100 % Written Exam + 10 % Homework
 
 Course Description
 ======
