@@ -2,7 +2,7 @@
 title: "Advanced Quantum Information and Computation"
 collection: courses
 type: "Graduate Course / CASA PhD Lecture"
-permalink: /courses/quantum-information
+permalink: /courses/advanced-quantum-information-and-computation
 venue: "Ruhr University Bochum"
 date: 2024-04-01
 location: "Bochum, Germany"
