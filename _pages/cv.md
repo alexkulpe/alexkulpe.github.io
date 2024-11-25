@@ -16,16 +16,20 @@ Education
 ======
 
 * **PhD Quantum Information and Cryptography** (expected 2027)\
-  CASA: Cybersecurity in the Age of Large-Scale Adversaries & Ruhr University Bochum\
-  Supervisors: [Prof. Dr. Michael Walter](https://qi.rub.de/walter) (CASA & RUB), [Asst. Prof. Dr. Giulio Malavolta](https://sites.google.com/view/giuliomalavolta/) (CASA & Bocconi University)
-* **M.Sc. IT-Security / Information Technology, M.Sc. Mathematics** (2024)\
-  Ruhr University Bochum\
-  Master Thesis: Time-Memory Tradeoffs for Subset Sum and Decoding\
-  Advisors: [Prof. Dr. Alexander May](https://informatik.rub.de/may/), [Dr. André Esser](https://andreesser.info) ([Technology Innovation Institute Abu Dhabi](https://www.tii.ae))
-* **B.Sc. IT-Security / Information Technology, B.Sc. Mathematics** (2022)\
-  Ruhr University Bochum\
-  Bachelor Thesis: Cryptanalysis of McEliece\
-  Advisors: [Prof. Dr. Alexander May](https://informatik.rub.de/may/), [Timo Glaser](https://informatik.rub.de/cits/people/glaser/)
+  CASA: Cybersecurity in the Age of Large-Scale Adversaries & Ruhr University Bochum
+
+* **M.Sc. IT-Security / Information Technology** (2024)\
+  Ruhr University Bochum
+
+* **M.Sc. Mathematics (Minor Computer Science)** (2024)\
+  Ruhr University Bochum
+
+* **B.Sc. IT-Security / Information Technology** (2022)\
+  Ruhr University Bochum
+
+* **B.Sc. Mathematics (Minor Computer Science)** (2022) \
+  Ruhr University Bochum
+
 * **Abitur** (A-levels: Mathematics, Physics, Latin) (2018)\
   Priv. Martin-Butzer-Gymnasium Dierdorf
 
@@ -107,7 +111,7 @@ Publications
   {% endfor %}</ul>
 
 -->
-
+<!--
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
@@ -120,6 +124,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+-->
 <!--  
 Service and leadership
 ======
