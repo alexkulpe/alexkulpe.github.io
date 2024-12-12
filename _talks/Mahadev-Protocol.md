@@ -8,3 +8,4 @@ date: 2023-08-29
 location: "Max Planck Institute for Security and Privacy & Ruhr University Bochum, Germany"
 ---
 
+You can find the slides [here](https://alexkulpe.github.io/files/mahadev.pdf)

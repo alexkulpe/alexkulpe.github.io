@@ -1,5 +1,5 @@
 ---
-title: "A bound on the quantum value of compiled nonlocal games"
+title: "Compiled Nonlocal Games from any Trapdoor Claw-Free Function"
 collection: publications
 category: preprint
 permalink: /publication/compiled-nonlocal-games-from-any-tcf
