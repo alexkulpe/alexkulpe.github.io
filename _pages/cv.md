@@ -83,16 +83,13 @@ Awards & Scholarships
   2018 - 2024\
   300 € per month (approx. 20,000 € in total) for outstanding achievements and special commitment\
   funded by the Federal Ministry of Education and Research in cooperation with [Dr. Hans Paul Bürkner](https://en.wikipedia.org/wiki/Hans-Paul_Bürkner) (2018 - 2019) and Horst Görtz Foundation (2019 - 2024)
+* **DPG Bookprize** (German Physical Society)\
+  2018\
+  for excellent performance in Physics
+* **DPG Abiturprize** (German Physical Society)\
+  2018\
+  for very good performances in Physics
 
-<!--
-* DPG Bookprize (German Physical Society)
-  * 2018
-  * for excellent performance in Physics
-* DPG Abiturprize (German Physical Society)
-  * 2018
-  * for very good performances in Physics
-
--->
 
 <!--
 Skills
