@@ -79,10 +79,11 @@ Awards & Scholarships
 * **Valedictorian IT-Security**\
   2024\
   500 € sponsored by [Edgeless Systems](https://www.edgeless.systems)
-* [**Deutschlandstipendium**](https://www.deutschlandstipendium.de/deutschlandstipendium/de/services/english/english_node.html) (Germany Scholarship)\
+* **Deutschlandstipendium** (Germany Scholarship)\
   2018 - 2024\
   300 € per month (approx. 20,000 € in total) for outstanding achievements and special commitment\
   funded by the Federal Ministry of Education and Research in cooperation with [Dr. Hans Paul Bürkner](https://en.wikipedia.org/wiki/Hans-Paul_Bürkner) (2018 - 2019) and Horst Görtz Foundation (2019 - 2024)
+
 <!--
 * DPG Bookprize (German Physical Society)
   * 2018
