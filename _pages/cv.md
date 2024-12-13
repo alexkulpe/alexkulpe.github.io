@@ -79,6 +79,9 @@ Awards & Scholarships
 * **Valedictorian IT-Security**\
   2024\
   500 € sponsored by [Edgeless Systems](https://www.edgeless.systems)
+* **Award for best M.Sc. Mathematics thesis**
+  2024\
+  250 € sponsored by the Support Association for Mathematics at Ruhr University Bochum
 * **Deutschlandstipendium** (Germany Scholarship)\
   2018 - 2024\
   300 € per month (approx. 20,000 € in total) for outstanding achievements and special commitment\
