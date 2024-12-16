@@ -8,4 +8,4 @@ date: 2024-12-13
 location: "Ruhr University Bochum, Germany"
 ---
 
-The english slides can be found [here](files/Space-Time-Nonlocal.pdf).
+The english slides can be found [here](files/Space-Time-Nonlocal).
