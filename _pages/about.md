@@ -18,7 +18,6 @@ I am generally interested in Cryptography, Cryptanalysis, Theoretical Computer S
 Announcement and News
 ======
 
-* I will be at the 2nd NRW Quantum Theoretical CS Workshop in Paderborn :de: (16.12.2024). You cam meet me there!
+* I will be at the 2nd NRW Quantum Theoretical CS Workshop in Paderborn 🇩🇪 (16.12.2024). You cam meet me there!
 * I will be at the QKD Summer School in Les Diablerets 🇨🇭(19.08.2024 - 23.08.2024). You can meet me there!
 * I will be at the IACR Summer School on Post-Quantum Cryptogaphy in Warsaw 🇵🇱 (14.07.2024 - 19.07.2024). You can meet me there!
-
