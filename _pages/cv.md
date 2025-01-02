@@ -37,13 +37,13 @@ Education
 Work experience
 ======
 
-* **Research Assistant** (2024 - 2027 (expected))\
+* **Research Assistant** (2024 - today)\
   Ruhr University Bochum
-* **Teaching Assistant** (2019 - 2024)\
+* **Teaching Assistant** (2019 - today)\
   Ruhr University Bochum\
-  Algorithm Paradigms, Cryptography, Discrete Mathematics I / II, Higher Mathematics I for Applied CS, Introduction to Theoretical Computer Science, Mathematics I for CS and IT-Security, Public Key Cryptanalysis
+  Algorithm Paradigms, Cryptography (2x), Discrete Mathematics I, Discrete Matheamtics II (2x), Higher Mathematics I for Applied CS, Introduction to Theoretical Computer Science (2x), Mathematics I for CS and IT-Security, Public Key Cryptanalysis, Quantum Information & Computation
 * **Intern** (Summer 2021)\
-  secunet Security Networks AG, Division Homeland Security, Team Cryptographic Systems and Applications
+  [secunet Security Networks AG](https://www.secunet.com/en/), Division Homeland Security, Team Cryptographic Systems and Applications
 
 <!--
 * 2024-2027: Research Assistant & PhD Student
@@ -79,7 +79,7 @@ Awards & Scholarships
 * **Valedictorian IT-Security**\
   2024\
   500 € sponsored by [Edgeless Systems](https://www.edgeless.systems)
-* **Award for best M.Sc. Mathematics thesis**
+* **Award for best M.Sc. Mathematics thesis (Summer 2023 - Summer 2024)**\
   2024\
   250 € sponsored by the Support Association for Mathematics at Ruhr University Bochum
 * **Deutschlandstipendium** (Germany Scholarship)\
