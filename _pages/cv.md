@@ -78,20 +78,23 @@ Awards & Scholarships
 
 * **Valedictorian IT-Security**\
   2024\
+  for outstanding achievements in the degree programme "M.Sc. IT-Sicherheit / Informationstechnik"\
   500 € sponsored by [Edgeless Systems](https://www.edgeless.systems)
 * **Award for best M.Sc. Mathematics thesis (Summer 2023 - Summer 2024)**\
   2024\
+  in recognition of his outstanding Master's thesis\
   250 € sponsored by the Support Association for Mathematics at Ruhr University Bochum
 * **Deutschlandstipendium** (Germany Scholarship)\
   2018 - 2024\
-  300 € per month (approx. 20,000 € in total) for outstanding achievements and special commitment\
-  funded by the Federal Ministry of Education and Research in cooperation with [Dr. Hans Paul Bürkner](https://en.wikipedia.org/wiki/Hans-Paul_Bürkner) (2018 - 2019) and Horst Görtz Foundation (2019 - 2024)
+  for outstanding achievements and special commitment\
+  300 € per month (approx. 20,000 € in total) funded by the Federal Ministry of Education and Research in cooperation with [Dr. Hans Paul Bürkner](https://en.wikipedia.org/wiki/Hans-Paul_Bürkner) (2018 - 2019) and Horst Görtz Foundation (2019 - 2024)
 * **DPG Bookprize** (German Physical Society)\
   2018\
   for excellent performance in Physics
 * **DPG Abiturprize** (German Physical Society)\
   2018\
-  for very good performances in Physics
+  for very good performance in Physics\
+  one year free membership in the German Physical Society
 
 
 <!--
