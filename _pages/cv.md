@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+<!--
 You can find a full CV [here](https://alexkulpe.github.io/files/CV.pdf).
-
+-->
 
 Education
 ======
