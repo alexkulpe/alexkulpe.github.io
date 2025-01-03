@@ -39,9 +39,9 @@ Work experience
 
 * **Research Assistant** (2024 - today)\
   Ruhr University Bochum
-* **Teaching Assistant** (2019 - today)\
+* **Teaching Assistant** (2019 - 2024)\
   Ruhr University Bochum\
-  Algorithm Paradigms, Cryptography (2x), Discrete Mathematics I, Discrete Matheamtics II (2x), Higher Mathematics I for Applied CS, Introduction to Theoretical Computer Science (2x), Mathematics I for CS and IT-Security, Public Key Cryptanalysis, Quantum Information & Computation
+  <!--Algorithm Paradigms, Cryptography (2x), Discrete Mathematics I, Discrete Matheamtics II (2x), Higher Mathematics I for Applied CS, Introduction to Theoretical Computer Science (2x), Mathematics I for CS and IT-Security, Public Key Cryptanalysis, Quantum Information & Computation-->
 * **Intern** (Summer 2021)\
   [secunet Security Networks AG](https://www.secunet.com/en/), Division Homeland Security, Team Cryptographic Systems and Applications
 
@@ -97,38 +97,40 @@ Awards & Scholarships
   one year free membership in the German Physical Society
 
 
-<!--
-Skills
+Selected Publications
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* **A bound on the quantum value of compiled nonlocal games**\
+  QIP'25 (Short Plenary Talk)\
+  **Alexander Kulpe**, Giulio Malavolta, Connor Paddock, Simon Schmidt, Michael Walter
 
 
-Publications
+Selected Talks
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* **Compiled Nonlocal Games**\
+  CASA Colloquium 2024\ 
+  Ruhr University Bochum
 
--->
-<!--
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+* **Time-Memory Tradeoffs for Subset Sum and Decoding**\
+  Talk Master Thesis 2024\
+  Ruhr University Bochum
+
+* **Overview of Mahadev’s protocol for classical verification of quantum computations**\
+  PhD Interview Technical Talk\
+  Max-Planck Institute for Security & Privacy, Ruhr University Bochum
+
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
--->
+* **Teaching Assistant/Grading Homework etc.**\
+  Algorithm Paradigms (2x), Cryptography (2x), Discrete Mathematics I, Discrete Mathematics II (2x), Higher Mathematics I for Applied CS, Public Key Cryptanalysis, Quantum Information and Computation
+
+* **Teaching Assistant/Exercise Supervisor**\
+  Cryptography, Mathematics I for CS and IT-Security, Quantum Information and Computation
+
+
+
+
 <!--  
 Service and leadership
 ======
