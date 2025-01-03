@@ -17,19 +17,14 @@ Education
 
 * **PhD Quantum Information and Cryptography** (expected 2027)\
   CASA: Cybersecurity in the Age of Large-Scale Adversaries & Ruhr University Bochum
-
 * **M.Sc. IT-Security / Information Technology** (2024)\
   Ruhr University Bochum
-
 * **M.Sc. Mathematics (Minor Computer Science)** (2024)\
   Ruhr University Bochum
-
 * **B.Sc. IT-Security / Information Technology** (2022)\
   Ruhr University Bochum
-
 * **B.Sc. Mathematics (Minor Computer Science)** (2022) \
   Ruhr University Bochum
-
 * **Abitur** (A-levels: Mathematics, Physics, Latin) (2018)\
   Priv. Martin-Butzer-Gymnasium Dierdorf
 
@@ -110,11 +105,9 @@ Selected Talks
 * **Compiled Nonlocal Games**\
   CASA Colloquium 2024\ 
   Ruhr University Bochum
-
 * **Time-Memory Tradeoffs for Subset Sum and Decoding**\
   Talk Master Thesis 2024\
   Ruhr University Bochum
-
 * **Overview of Mahadev’s protocol for classical verification of quantum computations**\
   PhD Interview Technical Talk\
   Max-Planck Institute for Security & Privacy, Ruhr University Bochum
@@ -124,7 +117,6 @@ Teaching
 
 * **Teaching Assistant/Grading Homework etc.**\
   Algorithm Paradigms (2x), Cryptography (2x), Discrete Mathematics I, Discrete Mathematics II (2x), Higher Mathematics I for Applied CS, Public Key Cryptanalysis, Quantum Information and Computation
-
 * **Teaching Assistant/Exercise Supervisor**\
   Cryptography, Mathematics I for CS and IT-Security, Quantum Information and Computation
 
