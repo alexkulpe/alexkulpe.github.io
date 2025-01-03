@@ -103,7 +103,7 @@ Selected Publications
 Selected Talks
 ======
 * **Compiled Nonlocal Games**\
-  CASA Colloquium 2024\ 
+  CASA Colloquium 2024\
   Ruhr University Bochum
 * **Time-Memory Tradeoffs for Subset Sum and Decoding**\
   Talk Master Thesis 2024\
