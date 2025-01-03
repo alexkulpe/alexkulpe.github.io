@@ -109,7 +109,7 @@ Selected Talks
   Talk Master Thesis 2024\
   Ruhr University Bochum
 * **Overview of Mahadev’s protocol for classical verification of quantum computations**\
-  PhD Interview Technical Talk\
+  PhD Interview Technical Talk 2023\
   Max-Planck Institute for Security & Privacy, Ruhr University Bochum
 
 Teaching
