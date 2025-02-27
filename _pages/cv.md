@@ -96,12 +96,13 @@ Selected Publications
 ======
 
 * **A bound on the quantum value of compiled nonlocal games**\
-  QIP'25 (Short Plenary Talk)\
+  QIP'25 (Short Plenary Talk) & STOC'25\
   **Alexander Kulpe**, Giulio Malavolta, Connor Paddock, Simon Schmidt, Michael Walter
 
 
 Selected Talks
 ======
+
 * **Compiled Nonlocal Games**\
   CASA Colloquium 2024\
   Ruhr University Bochum
@@ -119,13 +120,3 @@ Teaching
   Algorithm Paradigms (2x), Cryptography (2x), Discrete Mathematics I, Discrete Mathematics II (2x), Higher Mathematics I for Applied CS, Public Key Cryptanalysis, Quantum Information and Computation
 * **Teaching Assistant/Exercise Supervisor**\
   Cryptography, Mathematics I for CS and IT-Security, Quantum Information and Computation
-
-
-
-
-<!--  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
-
--->
