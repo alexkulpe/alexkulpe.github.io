@@ -66,6 +66,26 @@ Work experience
   * Presentation of the work results in a webinar
 -->
 
+Selected Publications
+======
+
+* **A bound on the quantum value of compiled nonlocal games**\
+  QIP'25 (Short Plenary Talk) & STOC'25\
+  **Alexander Kulpe**, Giulio Malavolta, Connor Paddock, Simon Schmidt, Michael Walter
+
+
+Selected Talks
+======
+
+* **Compiled Nonlocal Games**\
+  CASA Colloquium 2024\
+  Ruhr University Bochum
+* **Time-Memory Tradeoffs for Subset Sum and Decoding**\
+  Talk Master Thesis 2024\
+  Ruhr University Bochum
+* **Overview of Mahadev’s protocol for classical verification of quantum computations**\
+  PhD Interview Technical Talk 2023\
+  Max-Planck Institute for Security & Privacy, Ruhr University Bochum
 
 
 Awards & Scholarships
@@ -92,27 +112,6 @@ Awards & Scholarships
   one year free membership in the German Physical Society
 
 
-Selected Publications
-======
-
-* **A bound on the quantum value of compiled nonlocal games**\
-  QIP'25 (Short Plenary Talk) & STOC'25\
-  **Alexander Kulpe**, Giulio Malavolta, Connor Paddock, Simon Schmidt, Michael Walter
-
-
-Selected Talks
-======
-
-* **Compiled Nonlocal Games**\
-  CASA Colloquium 2024\
-  Ruhr University Bochum
-* **Time-Memory Tradeoffs for Subset Sum and Decoding**\
-  Talk Master Thesis 2024\
-  Ruhr University Bochum
-* **Overview of Mahadev’s protocol for classical verification of quantum computations**\
-  PhD Interview Technical Talk 2023\
-  Max-Planck Institute for Security & Privacy, Ruhr University Bochum
-
 Teaching
 ======
 
@@ -120,3 +119,13 @@ Teaching
   Algorithm Paradigms (2x), Cryptography (2x), Discrete Mathematics I, Discrete Mathematics II (2x), Higher Mathematics I for Applied CS, Public Key Cryptanalysis, Quantum Information and Computation
 * **Teaching Assistant/Exercise Supervisor**\
   Cryptography, Mathematics I for CS and IT-Security, Quantum Information and Computation
+
+Selected Coursework
+======
+
+* **Cryptography & Cryptanalysis**\
+  Asymmetric Cryptanalysis (Alex May), Authenticated Key Agreement: Formal Methods and Applications (Jörg Schwenk), Boolean Functions with Applications in Cryptography (Gregor Leander), Cryptographic Protocols (Eike Kiltz), Cryptography (Alex May), Cryptography on Hardware-Based Platforms (Tim Güneysu), Human Aspects of Cryptography Adoption and Use (Martina Angela Sasse), Implementation of Cryptographic Schemes (Christof Paar), Introduction to Cryptography I & II (Christof Paar), Lab Course ARM Processors for Embedded Cryptography (Max Hoffmann), Lab Course Practical Cryptanalysis of Symmetric Ciphers (Gregor Leander), Public Key Encryption (Nils Fleischhacker), Quantum Cryptography (Giulio Malavolta & Michael Walter), Seminar Real World Cryptography (Alex May), Software-Implementation of Cryptographic Schemes (Max Hoffmann), Symmetric Cryptanalysis (Gregor Leander), Zero-Knowledge Proof Systems (Nils Fleischhacker)
+* **Quantum**\
+  Advanced Quantum Information and Computation (Simon Schmidt & Michael Walter), Seminar Quantum Complexity Theory (Simon Schmidt & Michael Walter), Quantum Circuits (Philipp Niemann), Quantum Cryptography (Giulio Malavolta & Michael Walter), Quantum Information and Computation (Michael Walter)
+* **Theoretical Computer Science**\
+  Algorithm Paradigms (Maike Buchin), Computational Complexity Theory (Thomas Zeume), Data Structures (Maike Buchin), Information Theory (Michael Walter), Introduction to TCS (Nils Fleichhacker), Logic in CS (Thomas Zeume), Theoretical CS (Thomas Zeume), Seminar Satisfiability (Nils Vortmeier)
