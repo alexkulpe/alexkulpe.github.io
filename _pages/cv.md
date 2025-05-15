@@ -111,14 +111,20 @@ Awards & Scholarships
   for very good performance in Physics\
   one year free membership in the German Physical Society
 
+Service
+======
+
+* **Reviewer**\
+  TQC 2025
+
 
 Teaching
 ======
 
 * **Teaching Assistant/Grading Homework etc.**\
-  Algorithm Paradigms (2x), Cryptography (2x), Discrete Mathematics I, Discrete Mathematics II (2x), Higher Mathematics I for Applied CS, Public Key Cryptanalysis, Quantum Information and Computation
+  Advanced Quantum Information and Computation, Algorithm Paradigms (2x), Cryptography (2x), Discrete Mathematics I, Discrete Mathematics II (2x), Higher Mathematics I for Applied CS, Public Key Cryptanalysis, Quantum Information and Computation
 * **Teaching Assistant/Exercise Supervisor**\
-  Cryptography, Mathematics I for CS and IT-Security, Quantum Information and Computation
+  Advanced Quantum Information and Computation, Cryptography, Mathematics I for CS and IT-Security, Quantum Information and Computation
 
 Selected Coursework
 ======
