@@ -43,7 +43,7 @@ Theses
 
 * **Bachelor of Science**\
   Title: Kryptanalyse von McEliece (english: Cryptanalysis of McEliece)\
-  Grade: excellent (95%) (IT-Security) / very good (0.7) (Mathematics)\
+  Grade: excellent (95%) (IT-Security) / very good (1.0) (Mathematics)\
   Advisors: Prof. Dr. Alexander May, M.Sc. Timo Glaser
 
 Work experience
