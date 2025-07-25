@@ -18,16 +18,33 @@ Education
 * **PhD Quantum Information and Cryptography** (expected 2027)\
   CASA: Cybersecurity in the Age of Large-Scale Adversaries & Ruhr University Bochum
 * **M.Sc. IT-Security / Information Technology** (2024)\
-  Ruhr University Bochum
+  Ruhr University Bochum\
+  Grade: excellent (99%)
 * **M.Sc. Mathematics (Minor Computer Science)** (2024)\
-  Ruhr University Bochum
+  Ruhr University Bochum\
+  Grade: excellent (0.7)
 * **B.Sc. IT-Security / Information Technology** (2022)\
   Ruhr University Bochum
+  Grade: very good (91%)
 * **B.Sc. Mathematics (Minor Computer Science)** (2022) \
-  Ruhr University Bochum
+  Ruhr University Bochum\
+  Grade: very good (1.4)
 * **Abitur** (A-levels: Mathematics, Physics, Latin) (2018)\
-  Priv. Martin-Butzer-Gymnasium Dierdorf
+  Priv. Martin-Butzer-Gymnasium Dierdorf\
+  Grade: very good (1.3)
 
+Theses
+======
+
+* **Master of Science**\ 
+  Title: Time-Memory Tradeoffs für Subset Sum und Dekodierung (english: Time-Memory Tradeoffs for Subset Sum and Decoding)\
+  Grade: excellent (99%) (IT-Security) / very good (0.7) (Mathematics)\
+  Advisors: Prof. Dr. Alexander May (Ruhr University Bochum), Dr. André Esser (Technology Innovation Institute Abu Dhabi)
+
+* **Bachelor of Science**\ 
+  Title: Kryptanalyse von McEliece (english: Cryptanalysis of McEliece)\
+  Grade: excellent (95%) (IT-Security) / very good (0.7) (Mathematics)
+  Advisors: Prof. Dr. Alexander May, M.Sc. Timo Glaser
 
 Work experience
 ======
@@ -69,14 +86,22 @@ Work experience
 Selected Publications
 ======
 
+* **Compiled Nonlocal Games from any Trapdoor Claw-Free Function**\
+  Annual International Cryptology Conference (CRYPTO'25)\
+  Kaniuar Bacho, **Alexander Kulpe**, Giulio Malavolta, Simon Schmidt, Michael Walter\
+
+
 * **A bound on the quantum value of compiled nonlocal games**\
-  QIP'25 (Short Plenary Talk) & STOC'25\
+  Proceedings of the 57th Annual ACM Symposium on Theory of Computing (STOC’25), QIP’25 (short plenary talk)\
   **Alexander Kulpe**, Giulio Malavolta, Connor Paddock, Simon Schmidt, Michael Walter
 
 
 Selected Talks
 ======
 
+* **Compiled Nonlocal Games from Trapdoor Claw-Free Functions**\
+  QUASAR Seminar 2025\
+  University of Ottawa
 * **Compiled Nonlocal Games**\
   CASA Colloquium 2024\
   Ruhr University Bochum
@@ -114,17 +139,55 @@ Awards & Scholarships
 Service
 ======
 
-* **Reviewer**\
+* **External Reviewer**\
   TQC 2025
 
 
 Teaching
 ======
 
+* **Winter Term 2025/26**\
+  * TA: Theoretical Computer Science
+
+* **Summer Term 2025**\
+  * TA: Advanced Quantum Information and Computation
+
+* **Winter Term 2024/25**\
+  * TA: Quantum Information and Computation
+
+* **Winter Term 2023/24**\
+  * TA: Cryptography
+
+* **Summer Term 2023**\
+  * TA: Discrete Mathematics II / Introduction to TCS
+  * TA: Public Key Cryptanalysis I (Codes)
+
+* **Winter Term 2022/23**\
+  * TA: Cryptography
+
+* **Summer Term 2022**\
+  * TA: Algorithm Paradigms
+  * TA: Discrete Mathematics II / Introduction to TCS
+
+* **Winter Term 2021/22**\
+  * TA: Mathematics I for Computer Science and IT-Security
+
+* **Summer Term 2021**\
+  * TA: Algorithm Paradigms
+
+* **Winter Term 2020/21**\
+  * TA: Discrete Mathematics I
+
+* **Winter Term 2019/20**\
+  * TA: Higher Mathematics I for Applied Computer Science
+
+
+<!--
 * **Teaching Assistant/Grading Homework etc.**\
   Advanced Quantum Information and Computation, Algorithm Paradigms (2x), Cryptography (2x), Discrete Mathematics I, Discrete Mathematics II (2x), Higher Mathematics I for Applied CS, Public Key Cryptanalysis, Quantum Information and Computation
 * **Teaching Assistant/Exercise Supervisor**\
   Advanced Quantum Information and Computation, Cryptography, Mathematics I for CS and IT-Security, Quantum Information and Computation
+-->
 
 Selected Coursework
 ======
