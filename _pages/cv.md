@@ -159,14 +159,14 @@ Teaching
   TA: Cryptography (Jun.-Prof. Dr. Nils Fleischhacker)
 
 * **Summer Term 2023**\
-  TA: Discrete Mathematics II / Introduction to TCS (M.Sc. Timo Glaser)
+  TA: Discrete Mathematics II / Introduction to TCS (M.Sc. Timo Glaser)\
   TA: Public Key Cryptanalysis I (Codes) (Prof. Dr. Alexander May)
 
 * **Winter Term 2022/23**\
   TA: Cryptography (Prof. Dr. Alexander May)
 
 * **Summer Term 2022**\
-  TA: Algorithm Paradigms (Prof. Dr. Maike Buchin)
+  TA: Algorithm Paradigms (Prof. Dr. Maike Buchin)\
   TA: Discrete Mathematics II / Introduction to TCS (Jun.-Prof. Dr. Nils Fleischhacker) 
 
 * **Winter Term 2021/22**\
