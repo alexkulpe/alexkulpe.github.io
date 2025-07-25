@@ -24,7 +24,7 @@ Education
   Ruhr University Bochum\
   Grade: excellent (0.7)
 * **B.Sc. IT-Security / Information Technology** (2022)\
-  Ruhr University Bochum
+  Ruhr University Bochum\
   Grade: very good (91%)
 * **B.Sc. Mathematics (Minor Computer Science)** (2022) \
   Ruhr University Bochum\
@@ -36,14 +36,14 @@ Education
 Theses
 ======
 
-* **Master of Science**\ 
+* **Master of Science**\
   Title: Time-Memory Tradeoffs für Subset Sum und Dekodierung (english: Time-Memory Tradeoffs for Subset Sum and Decoding)\
   Grade: excellent (99%) (IT-Security) / very good (0.7) (Mathematics)\
-  Advisors: Prof. Dr. Alexander May (Ruhr University Bochum), Dr. André Esser (Technology Innovation Institute Abu Dhabi)
+  Advisors: Prof. Dr. Alexander May (Ruhr University Bochum), Dr. André Esser (TII Abu Dhabi)
 
-* **Bachelor of Science**\ 
+* **Bachelor of Science**\
   Title: Kryptanalyse von McEliece (english: Cryptanalysis of McEliece)\
-  Grade: excellent (95%) (IT-Security) / very good (0.7) (Mathematics)
+  Grade: excellent (95%) (IT-Security) / very good (0.7) (Mathematics)\
   Advisors: Prof. Dr. Alexander May, M.Sc. Timo Glaser
 
 Work experience
@@ -145,41 +145,41 @@ Service
 
 Teaching
 ======
-
+<!--
 * **Winter Term 2025/26**\
-  * TA: Theoretical Computer Science
-
+  TA: Theoretical Computer Science (Prof. Dr. Julian Loss, Prof. Dr. Thomas Zeume)
+-->
 * **Summer Term 2025**\
-  * TA: Advanced Quantum Information and Computation
+  TA: Advanced Quantum Information and Computation (Dr. Simon Schmidt, Prof. Dr. Michael Walter)
 
 * **Winter Term 2024/25**\
-  * TA: Quantum Information and Computation
+  TA: Quantum Information and Computation (Dr. Simon Schmidt, Prof. Dr. Michael Walter)
 
 * **Winter Term 2023/24**\
-  * TA: Cryptography
+  TA: Cryptography (Jun.-Prof. Dr. Nils Fleischhacker)
 
 * **Summer Term 2023**\
-  * TA: Discrete Mathematics II / Introduction to TCS
-  * TA: Public Key Cryptanalysis I (Codes)
+  TA: Discrete Mathematics II / Introduction to TCS (M.Sc. Timo Glaser)
+  TA: Public Key Cryptanalysis I (Codes) (Prof. Dr. Alexander May)
 
 * **Winter Term 2022/23**\
-  * TA: Cryptography
+  TA: Cryptography (Prof. Dr. Alexander May)
 
 * **Summer Term 2022**\
-  * TA: Algorithm Paradigms
-  * TA: Discrete Mathematics II / Introduction to TCS
+  TA: Algorithm Paradigms (Prof. Dr. Maike Buchin)
+  TA: Discrete Mathematics II / Introduction to TCS (Jun.-Prof. Dr. Nils Fleischhacker) 
 
 * **Winter Term 2021/22**\
-  * TA: Mathematics I for Computer Science and IT-Security
+  TA: Mathematics I for Computer Science and IT-Security (Prof. Dr. Gregor Leander)
 
 * **Summer Term 2021**\
-  * TA: Algorithm Paradigms
+  TA: Algorithm Paradigms (Prof. Dr. Maike Buchin)
 
 * **Winter Term 2020/21**\
-  * TA: Discrete Mathematics I
+  TA: Discrete Mathematics I (Prof. Dr. Björn Schuster)
 
 * **Winter Term 2019/20**\
-  * TA: Higher Mathematics I for Applied Computer Science
+  TA: Higher Mathematics I for Applied Computer Science (AOR PD Dr. Daniela Kacso)
 
 
 <!--
