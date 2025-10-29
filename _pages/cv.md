@@ -88,12 +88,12 @@ Selected Publications
 
 * **Compiled Nonlocal Games from any Trapdoor Claw-Free Function**\
   Annual International Cryptology Conference (CRYPTO'25)\
-  Kaniuar Bacho, **Alexander Kulpe**, Giulio Malavolta, Simon Schmidt, Michael Walter\
+  Kaniuar Bacho, Alexander Kulpe, Giulio Malavolta, Simon Schmidt, Michael Walter\
 
 
 * **A bound on the quantum value of compiled nonlocal games**\
   Proceedings of the 57th Annual ACM Symposium on Theory of Computing (STOC’25), QIP’25 (short plenary talk)\
-  **Alexander Kulpe**, Giulio Malavolta, Connor Paddock, Simon Schmidt, Michael Walter
+  Alexander Kulpe, Giulio Malavolta, Connor Paddock, Simon Schmidt, Michael Walter
 
 
 Selected Talks
@@ -139,16 +139,19 @@ Awards & Scholarships
 Service
 ======
 
+* **Committee service**\
+  * Hiring Committee Professorship for Quantum Computing (Open Rank)
 * **External Reviewer**\
-  TQC 2025
+  * ITCS 2026
+  * TQC 2025
 
 
 Teaching
 ======
-<!--
+
 * **Winter Term 2025/26**\
   TA: Theoretical Computer Science (Prof. Dr. Julian Loss, Prof. Dr. Thomas Zeume)
--->
+
 * **Summer Term 2025**\
   TA: Advanced Quantum Information and Computation (Dr. Simon Schmidt, Prof. Dr. Michael Walter)
 

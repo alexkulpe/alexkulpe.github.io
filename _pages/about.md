@@ -20,6 +20,6 @@ Announcement and News
 
 * I will be at STOC'25 in Prague 🇨🇿 (23.06.2025 - 27.06.2025). You can meet me there!
 * I will be at QIP'25 in Raleigh 🇺🇸 (22.02.2025 - 28.02.2025). You can meet me there!
-* I will be at the 2nd NRW Quantum Theoretical CS Workshop in Paderborn 🇩🇪 (16.12.2024). You cam meet me there!
+* I will be at the 2nd NRW Quantum Theoretical CS Workshop in Paderborn 🇩🇪 (16.12.2024). You can meet me there!
 * I will be at the QKD Summer School in Les Diablerets 🇨🇭(19.08.2024 - 23.08.2024). You can meet me there!
 * I will be at the IACR Summer School on Post-Quantum Cryptogaphy in Warsaw 🇵🇱 (14.07.2024 - 19.07.2024). You can meet me there!
