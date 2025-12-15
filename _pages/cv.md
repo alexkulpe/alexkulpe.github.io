@@ -38,15 +38,17 @@ Theses
 
 * **Master of Science**\
   Title: Time-Memory Tradeoffs für Subset Sum und Dekodierung (english: Time-Memory Tradeoffs for Subset Sum and Decoding)\
-  Grade: excellent (99%) (IT-Security) / very good (0.7) (Mathematics)\
+  Grade IT-Security: excellent (99%)\
+  Grade Mathematics: very good (0.7)\
   Advisors: Prof. Dr. Alexander May (Ruhr University Bochum), Dr. André Esser (TII Abu Dhabi)
 
 * **Bachelor of Science**\
   Title: Kryptanalyse von McEliece (english: Cryptanalysis of McEliece)\
-  Grade: excellent (95%) (IT-Security) / very good (1.0) (Mathematics)\
+  Grade IT-Security: excellent (95%)\
+  Grade Mathematics: very good (1.0)\
   Advisors: Prof. Dr. Alexander May, M.Sc. Timo Glaser
 
-Work experience
+Work Experience
 ======
 
 * **Research Assistant** (2024 - today)\
@@ -143,6 +145,7 @@ Service
   * Hiring Committee Professorship for Quantum Computing (Open Rank)
 * **External Reviewer**\
   * ITCS 2026
+  * STOC 2026
   * TQC 2025
 
 
