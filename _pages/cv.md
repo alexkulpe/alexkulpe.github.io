@@ -51,8 +51,8 @@ Theses
 Work Experience
 ======
 
-* **Research Assistant** (2024 - today)\
-  Ruhr University Bochum
+* **Research Associate** (2024 - today)\
+  Ruhr University Bochum & Cluster of Excellence CASA
 * **Teaching Assistant** (2019 - 2024)\
   Ruhr University Bochum\
   <!--Algorithm Paradigms, Cryptography (2x), Discrete Mathematics I, Discrete Matheamtics II (2x), Higher Mathematics I for Applied CS, Introduction to Theoretical Computer Science (2x), Mathematics I for CS and IT-Security, Public Key Cryptanalysis, Quantum Information & Computation-->
@@ -90,11 +90,11 @@ Selected Publications
 
 * **Compiled Nonlocal Games from any Trapdoor Claw-Free Function**\
   Annual International Cryptology Conference (CRYPTO'25)\
-  Kaniuar Bacho, Alexander Kulpe, Giulio Malavolta, Simon Schmidt, Michael Walter\
+  Kaniuar Bacho, Alexander Kulpe, Giulio Malavolta, Simon Schmidt, Michael Walter
 
 
 * **A bound on the quantum value of compiled nonlocal games**\
-  Proceedings of the 57th Annual ACM Symposium on Theory of Computing (STOC’25), QIP’25 (short plenary talk)\
+  Proceedings of the 57th Annual ACM Symposium on Theory of Computing (STOC’25), QIP’25 (plenary talk)\
   Alexander Kulpe, Giulio Malavolta, Connor Paddock, Simon Schmidt, Michael Walter
 
 
