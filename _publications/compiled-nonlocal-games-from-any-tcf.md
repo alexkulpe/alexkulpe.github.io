@@ -8,7 +8,7 @@ excerpt: 'A recent work of Kalai et al. (STOC 2023) shows how to compile any mul
     Our compiler is based on the framework of measurement-based quantum computation.
     It can be instantiated assuming the existence of \emph{any} trapdoor function that satisfies the claw-freeness property.
     Leveraging results by Natarajan and Zhang (FOCS 2023) on compiled nonlocal games, our work implies the existence of new protocols to classically verify quantum computation from potentially weaker computational assumptions than previously known.'
-date: 2025-00-00
+date: 2025-01-01
 venue: 'CRYPTO 2025'
 paperurl: 'https://eprint.iacr.org/2024/1829'
 ---
