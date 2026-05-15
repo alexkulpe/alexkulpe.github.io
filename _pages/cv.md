@@ -144,6 +144,7 @@ Service
 * **Committee service**\
   * Hiring Committee Professorship for Quantum Computing (Open Rank)
 * **External Reviewer**\
+  * ICALP 2026
   * ITCS 2026
   * STOC 2026
   * TQC 2025
