@@ -15,7 +15,7 @@ You can find a full CV [here](https://alexkulpe.github.io/files/CV.pdf).
 Education
 ======
 
-* **PhD Quantum Information and Cryptography** (expected 2027)\
+* **PhD Quantum Information and Cryptography** (expected 2027/28)\
   CASA: Cybersecurity in the Age of Large-Scale Adversaries & Ruhr University Bochum
 * **M.Sc. IT-Security / Information Technology** (2024)\
   Ruhr University Bochum\
@@ -50,10 +50,11 @@ Theses
 
 Work Experience
 ======
-
-* **Research Associate** (2024 - today)\
+* **Guest Researcher** (2026 -- today)\
+  LMU Munich
+* **Research Associate** (2024 -- today)\
   Ruhr University Bochum & Cluster of Excellence CASA
-* **Teaching Assistant** (2019 - 2024)\
+* **Teaching Assistant** (2019 -- 2024)\
   Ruhr University Bochum\
   <!--Algorithm Paradigms, Cryptography (2x), Discrete Mathematics I, Discrete Matheamtics II (2x), Higher Mathematics I for Applied CS, Introduction to Theoretical Computer Science (2x), Mathematics I for CS and IT-Security, Public Key Cryptanalysis, Quantum Information & Computation-->
 * **Intern** (Summer 2021)\
@@ -127,7 +128,7 @@ Awards & Scholarships
   in recognition of his outstanding Master's thesis\
   250 € sponsored by the Support Association for Mathematics at Ruhr University Bochum
 * **Deutschlandstipendium** (Germany Scholarship)\
-  2018 - 2024\
+  2018 -- 2024\
   for outstanding achievements and special commitment\
   300 € per month (approx. 20,000 € in total) funded by the Federal Ministry of Education and Research in cooperation with [Dr. Hans Paul Bürkner](https://en.wikipedia.org/wiki/Hans-Paul_Bürkner) (2018 - 2019) and Horst Görtz Foundation (2019 - 2024)
 * **DPG Bookprize** (German Physical Society)\
@@ -146,6 +147,7 @@ Service
 * **External Reviewer**\
   * ICALP 2026
   * ITCS 2026
+  * MFCS 2026
   * STOC 2026
   * TQC 2025
 
