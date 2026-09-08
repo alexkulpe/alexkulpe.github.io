@@ -10,7 +10,9 @@ redirect_from:
 
 Hello there! 
 After studying [Mathematics](https://math.ruhr-uni-bochum.de/en/) and [IT-Security](https://informatik.rub.de/en/) I am deepening my knowledge in Quantum Information and Cryptography as a PhD Student in the [Quantum Information group](https://michaelwalter.info) at [Ruhr University Bochum](https://www.ruhr-uni-bochum.de/en) and [CASA - Cybersecurity in the Age of Large-Scale Adversaries](https://casa.rub.de/en/).
-I am jointly supervised by [Prof. Dr. Michael Walter](https://https://michaelwalter.info/walter) from LMU Munich and [Asst. Prof. Dr. Giulio Malavolta](https://sites.google.com/view/giuliomalavolta/) from [Bocconi University](https://unibocconi.it) and [Max-Planck Institute for Security and Privacy](https://www.mpi-sp.org).
+Additionally, I am part of the [Quantum Information Theory group](https://www.physik.lmu.de/qit/en/) at LMU Munich.
+
+I am jointly supervised by [Prof. Dr. Michael Walter](https://https://michaelwalter.info/walter) from LMU Munich and [Assoc. Prof. Dr. Giulio Malavolta](https://sites.google.com/view/giuliomalavolta/) from [Bocconi University](https://unibocconi.it) and [Max-Planck Institute for Security and Privacy](https://www.mpi-sp.org).
 
 I am generally interested in Cryptography, Cryptanalysis, Theoretical Computer Science and Quantum Information.
 
