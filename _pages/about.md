@@ -20,6 +20,7 @@ I am generally interested in Cryptography, Cryptanalysis, Theoretical Computer S
 Announcement and News
 ======
 
+* I will be visiting [Centrum Wiskunde & Informatica (CWI)](https://www.cwi.nl/en/)/[QuSoft Reseach Center](https://qusoft.org) from September 14 until October 9 hosted by Prof. Dr. Christian Schaffner. You can meet me there (Office: L229).
 * I will be at the MCQST Summer School 2026 in Sonthofen. You can meet me there!
 * Since our chair relocates to LMU Munich, I will move to Munich in April 2026.
 * I will be at STOC'25 in Prague 🇨🇿 (23.06.2025 - 27.06.2025). You can meet me there!
