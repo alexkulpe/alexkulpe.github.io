@@ -53,8 +53,9 @@ Work Experience
 * **Guest Researcher** (2026)\
   LMU Munich
 * **Research Associate** (2024 -- today)\
-  Ruhr University Bochum & Cluster of Excellence CASA (2024 -- 2027)\
-  LMU Munich & MCQST (2026 -- today)
+  LMU Munich & MCQST (2026 -- today)\
+  Ruhr University Bochum & Cluster of Excellence CASA (2024 -- 2027)
+  
 * **Teaching Assistant** (2019 -- 2024)\
   Ruhr University Bochum\
   <!--Algorithm Paradigms, Cryptography (2x), Discrete Mathematics I, Discrete Matheamtics II (2x), Higher Mathematics I for Applied CS, Introduction to Theoretical Computer Science (2x), Mathematics I for CS and IT-Security, Public Key Cryptanalysis, Quantum Information & Computation-->
