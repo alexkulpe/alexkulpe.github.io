@@ -53,7 +53,7 @@ Work Experience
 * **Guest Researcher** (2026)\
   LMU Munich
 * **Research Associate** (2024 -- today)\
-  Ruhr University Bochum & Cluster of Excellence CASA (2024 -- 2027)
+  Ruhr University Bochum & Cluster of Excellence CASA (2024 -- 2027)\
   LMU Munich & MCQST (2026 -- today)
 * **Teaching Assistant** (2019 -- 2024)\
   Ruhr University Bochum\
