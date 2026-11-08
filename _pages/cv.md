@@ -159,7 +159,7 @@ Teaching
 ======
 
 * **Winter Term 2026/27**\
-  Ruhr-University Bochum\
+  LMU Munich\
   TA: Quantum Information (Prof. Dr. Michael Walter)
 
 * **Winter Term 2025/26**\
