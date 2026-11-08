@@ -50,10 +50,11 @@ Theses
 
 Work Experience
 ======
-* **Guest Researcher** (2026 -- today)\
+* **Guest Researcher** (2026)\
   LMU Munich
 * **Research Associate** (2024 -- today)\
-  Ruhr University Bochum & Cluster of Excellence CASA
+  Ruhr University Bochum & Cluster of Excellence CASA (2024 -- 2027)
+  LMU Munich & MCQST (2026 -- today)
 * **Teaching Assistant** (2019 -- 2024)\
   Ruhr University Bochum\
   <!--Algorithm Paradigms, Cryptography (2x), Discrete Mathematics I, Discrete Matheamtics II (2x), Higher Mathematics I for Applied CS, Introduction to Theoretical Computer Science (2x), Mathematics I for CS and IT-Security, Public Key Cryptanalysis, Quantum Information & Computation-->
@@ -144,10 +145,12 @@ Service
 
 * **Committee service**\
   * Hiring Committee Professorship for Quantum Computing (Open Rank)
-* **External Reviewer**\
+* **External (Sub)Reviewer**\
   * ICALP 2026
   * ITCS 2026
   * MFCS 2026
+  * QIP 2027
+  * SODA 2027
   * STOC 2026
   * TQC 2025
 
@@ -155,39 +158,54 @@ Service
 Teaching
 ======
 
+* **Winter Term 2026/27**\
+  Ruhr-University Bochum\
+  TA: Quantum Information (Prof. Dr. Michael Walter)
+
 * **Winter Term 2025/26**\
+  Ruhr-University Bochum\
   TA: Theoretical Computer Science (Prof. Dr. Julian Loss, Prof. Dr. Thomas Zeume)
 
 * **Summer Term 2025**\
+  Ruhr-University Bochum\
   TA: Advanced Quantum Information and Computation (Dr. Simon Schmidt, Prof. Dr. Michael Walter)
 
 * **Winter Term 2024/25**\
+  Ruhr-University Bochum\
   TA: Quantum Information and Computation (Dr. Simon Schmidt, Prof. Dr. Michael Walter)
 
 * **Winter Term 2023/24**\
+  Ruhr-University Bochum\
   TA: Cryptography (Jun.-Prof. Dr. Nils Fleischhacker)
 
 * **Summer Term 2023**\
+  Ruhr-University Bochum\
   TA: Discrete Mathematics II / Introduction to TCS (M.Sc. Timo Glaser)\
   TA: Public Key Cryptanalysis I (Codes) (Prof. Dr. Alexander May)
 
 * **Winter Term 2022/23**\
+  Ruhr-University Bochum\
   TA: Cryptography (Prof. Dr. Alexander May)
 
 * **Summer Term 2022**\
+  Ruhr-University Bochum\
   TA: Algorithm Paradigms (Prof. Dr. Maike Buchin)\
   TA: Discrete Mathematics II / Introduction to TCS (Jun.-Prof. Dr. Nils Fleischhacker) 
 
 * **Winter Term 2021/22**\
+  Ruhr-University Bochum\
   TA: Mathematics I for Computer Science and IT-Security (Prof. Dr. Gregor Leander)
 
 * **Summer Term 2021**\
+  Ruhr-University Bochum\
   TA: Algorithm Paradigms (Prof. Dr. Maike Buchin)
 
 * **Winter Term 2020/21**\
+  Ruhr-University Bochum\
   TA: Discrete Mathematics I (Prof. Dr. Björn Schuster)
 
 * **Winter Term 2019/20**\
+  Ruhr-University Bochum\
   TA: Higher Mathematics I for Applied Computer Science (AOR PD Dr. Daniela Kacso)
 
 
